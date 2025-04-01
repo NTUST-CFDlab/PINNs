@@ -1,0 +1,1 @@
+This is a PINN code to conduct error estimation of any data that is not physically accurate. We usually use this to evaluate the quality of simulation data, especially due to the effect of mesh. The settings could be found in Case_Info.py and the main program is main.py
